@@ -1,0 +1,19 @@
+.custom-font-large {
+    font-size: 2rem;
+    /* Adjust the size as needed */
+}
+
+.custom-font-medium {
+    font-size: 1.5rem;
+    /* Adjust the size as needed */
+}
+
+.custom-padding {
+    padding: 2rem;
+    /* Adjust the padding as needed */
+}
+
+.custom-margin {
+    margin-right: 1rem;
+    /* Adjust the margin as needed */
+}
