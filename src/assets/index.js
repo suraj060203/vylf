@@ -16,7 +16,7 @@ import ppBanner2024 from "./eventBanners/ppBanner2024.png";
 import comingSoon from "./eventBanners/comingSoon.png";
 import gdBg from "./eventBanners/bannerBg/gdBg.svg";
 import ppBg from "./eventBanners/bannerBg/ppBg.svg";
-import bgVytoflowLogo from "./bgVytoflowLogo.svg";
+import bgVytoflowLogo from "./bgVytoflowLogo.png";
 import ButtonBg from "./ButtonBg.svg";
 import gdOne  from "./eventNorm/gdOne.JPG";
 import gdThree from "./eventNorm/gdThree.jpg";
