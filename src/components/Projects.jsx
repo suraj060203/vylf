@@ -160,8 +160,8 @@ const Events = () => {
     hidden: { opacity: 0, y: -50, transition: { duration: 0.9 } },
   }}
 >
-  <div className="flex three mt-20 lg:mr-20 lg:-ml-96 lg:-mb-5">
-    Secure Your Spot In The Tech Arena: 
+  <div className="flex three mt-150 lg:mr-20 lg:-ml-96 lg:-mb-5">
+    <span className="flex three mt-15 lg:-ml-54 lg:-mb-14">Secure Your Spot In The Tech Arena:</span>
     </div>
   <motion.span className=" -mt-20 md:mt-3  md:ml-20 -mr-36 "
     initial="hidden"
