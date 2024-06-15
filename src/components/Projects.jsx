@@ -119,7 +119,7 @@ const Events = () => {
       <div  className=" h-screen overflow-hidden" style={{margin:"5px",borderRadius: "1%"}}>
       
       <motion.div
-        className="absolute top-[1rem] left-[0rem] w-[35rem] h-[35rem] spinning-background"
+        className="absolute top-[1rem] left-[0rem] w-[35rem] h-[35rem]"
         style={{
           backgroundImage: `url(${bgVytoflowLogo})`,
           backgroundAttachment: "fixed",
