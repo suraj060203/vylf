@@ -49,7 +49,7 @@ import iec from "./partners/colleges/iec.png";
 import ims from "./partners/colleges/ims.png";
 import niet from "./partners/colleges/niet.png";
 import sharda from "./partners/colleges/sharda.png";
-import partnerBack from "./partnerBack.svg";
+import partnerBack from "./partnerBack.png";
 import github from "./footerLogo/github.svg";
 import instagram from "./footerLogo/instagram.svg";
 import linkedin from "./footerLogo/linkedin.svg"
@@ -65,7 +65,7 @@ import hwhatsapp from "./headerLogo/whatsapp.svg";
 import ansh from "./people/ansh.jpg";
 import suraj from "./people/suraj.jpg";
 import siddhant from "./people/siddhant.jpg";
-import shapeani from "../assets/shapeani.svg";
+import shapeani from "../assets/shapeani.png";
 import Meteor from "../assets/futureUse/Explore/Meteor.svg";
 import arrow from "../assets/futureUse/Explore/arrow.svg";
 import sphone from "../assets/sphone.svg";
