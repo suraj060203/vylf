@@ -118,17 +118,6 @@ const Events = () => {
     <div className="relative h-screen bg-gradient-to-t from-[50rem] from-blue-50 to-white flex items-center justify-center">
       <div  className=" h-screen overflow-hidden" style={{margin:"5px",borderRadius: "1%"}}>
       
-      <motion.div
-        className="absolute top-[1rem] left-[0rem] w-[35rem] h-[35rem]"
-        style={{
-          backgroundImage: `url(${bgVytoflowLogo})`,
-          backgroundAttachment: "fixed",
-          backgroundSize: "500px",
-          backgroundRepeat: "no-repeat",
-          backgroundPosition: "center",
-          borderRadius: "50%",
-        }}
-      ></motion.div>
       <div className="absolute bottom-40 right-[10rem] text-2xl text-n-7 p-3">
       <a href="https://forms.gle/JDjSDSNteSov5D4m9" target="_blank" rel="noopener noreferrer">
       <motion.button
